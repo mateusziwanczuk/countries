@@ -25,5 +25,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "http://mateusziwanczuk.github.io/countries/"
+  "homepage": "http://mateusziwanczuk.github.io/countries"
 }
