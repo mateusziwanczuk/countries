@@ -17,7 +17,7 @@ class App extends React.Component {
     }
   }
   componentDidMount() {
-    fetch('http://localhost:3000/countries.json')
+    fetch('countries.json')
       .then(res => res.json())
       .then(countries => {
         const regions = countries.reduce((acc, country) => {
