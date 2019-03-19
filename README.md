@@ -1,3 +1,12 @@
+
+This is the simply React App which contains list of countries with its capitals, regions, populations and areas. 
+You can sort all the data, find the country, or display only these from choosen region. 
+
+GHPages: https://mateusziwanczuk.github.io/countries/
+
+____________________________________________________________________________________________________
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
