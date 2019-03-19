@@ -1,13 +1,13 @@
 {
   "main.css": "/countries/static/css/main.96901d9c.chunk.css",
-  "main.js": "/countries/static/js/main.f64071c3.chunk.js",
-  "main.js.map": "/countries/static/js/main.f64071c3.chunk.js.map",
+  "main.js": "/countries/static/js/main.ccf3f083.chunk.js",
+  "main.js.map": "/countries/static/js/main.ccf3f083.chunk.js.map",
   "runtime~main.js": "/countries/static/js/runtime~main.2dfaedb9.js",
   "runtime~main.js.map": "/countries/static/js/runtime~main.2dfaedb9.js.map",
   "static/js/2.671b4c13.chunk.js": "/countries/static/js/2.671b4c13.chunk.js",
   "static/js/2.671b4c13.chunk.js.map": "/countries/static/js/2.671b4c13.chunk.js.map",
   "index.html": "/countries/index.html",
-  "precache-manifest.8aa579f4bfae43d9d21d3eaf99d41c1b.js": "/countries/precache-manifest.8aa579f4bfae43d9d21d3eaf99d41c1b.js",
+  "precache-manifest.47620abcbb85ab12568ca73e3f0479b1.js": "/countries/precache-manifest.47620abcbb85ab12568ca73e3f0479b1.js",
   "service-worker.js": "/countries/service-worker.js",
   "static/css/main.96901d9c.chunk.css.map": "/countries/static/css/main.96901d9c.chunk.css.map"
 }
